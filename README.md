@@ -1,10 +1,35 @@
 # Design Patterns Study
 #### Author: Trevor Stubbs
 
-- This will record my journey of learning software Design Patterns
+- This records my journey of learning software Design Patterns
 
 ## What are Software Design Patterns?
 Design patterns represents some of the best practices of building object-oriented software. Each design pattern addresses a recurring design problem in OOP. 
 
-## The Patterns
-- [Prototype](Prototype/README.md)
+## Creational Patterns
+- Factory method
+- Abstract Factory
+- Builder
+- [Prototype](Creational/Prototype/README.md)
+- Singleton
+
+## Structural Patterns
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+
+## Behavioral Patterns
+- Chain of Responsibility
+- Command
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Template Method
+- Visitor

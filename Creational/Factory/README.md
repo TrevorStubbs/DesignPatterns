@@ -143,6 +143,5 @@ public class PhoneConcreteFactory : ProductAbstractFactory
 
 ### Citations
 - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software.*, Addison-Wesley, 1994.
-- GeeksforGeeks. [Prototype Design Pattern](https://www.geeksforgeeks.org/prototype-design-pattern/). 
 - Wikipedia. [Factory Method Pattern](https://en.wikipedia.org/wiki/Factory_method_pattern).
 - Refactoring Guru. [Factory Method](https://refactoring.guru/design-patterns/factory-method).

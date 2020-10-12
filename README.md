@@ -8,7 +8,7 @@ Design patterns represents some of the best practices of building object-oriente
 
 ## Creational Patterns
 - [Factory method](Creational/Factory/README.md)
-- [Abstract Factory](Creational/AbstractFactory/README.md)
+- [Abstract Factory](Creational/AbstractFactory/)
 - Builder
 - [Prototype](Creational/Prototype/README.md)
 - Singleton

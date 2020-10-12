@@ -7,10 +7,10 @@
 Design patterns represents some of the best practices of building object-oriented software. Each design pattern addresses a recurring design problem in OOP. 
 
 ## Creational Patterns
-- [Factory method](Creational/Factory/README.md)
+- [Factory method](Creational/Factory/)
 - [Abstract Factory](Creational/AbstractFactory/)
 - Builder
-- [Prototype](Creational/Prototype/README.md)
+- [Prototype](Creational/Prototype/)
 - Singleton
 
 ## Structural Patterns

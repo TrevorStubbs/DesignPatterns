@@ -29,8 +29,6 @@
 ## Visuals
 ![Factory Pattern](assets/FactoryPattern.png)
 
-## CSharp Implementation
-
 
 ## Code (CSharp)
 - Creator makes the factory method call

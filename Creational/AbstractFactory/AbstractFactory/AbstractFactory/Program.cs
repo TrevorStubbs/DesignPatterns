@@ -1,6 +1,7 @@
-﻿using System;
+﻿using AbstractFactory.Classes;
+using System;
 
-namespace FactoryPattern
+namespace AbstractFactory
 {
     class Program
     {

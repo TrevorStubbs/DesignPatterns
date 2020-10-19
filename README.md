@@ -9,7 +9,7 @@ Design patterns represents some of the best practices of building object-oriente
 ## Creational Patterns
 - [Factory method](Creational/Factory/)
 - [Abstract Factory](Creational/AbstractFactory/)
-- Builder
+- [Builder](Creatrional/Builder)
 - [Prototype](Creational/Prototype/)
 - Singleton
 

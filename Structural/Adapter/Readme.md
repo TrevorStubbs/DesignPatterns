@@ -51,7 +51,7 @@
     - usually initialized in the adapter constructor
 1. Implement the clients interface methods inside the adapter.
     - Where possible make the adpatee do all the work and the adapter only has to handle the conversion.
-1. Client is only allowed to use the adpater.   
+1. Client is only allowed to use the adapter.   
     - The client should not have any knowledge of the adaptee.
 
 ## Pros and Cons
